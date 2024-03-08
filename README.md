@@ -19,11 +19,7 @@ LESSGUI is a Python tool designed to enhance password security by checking the c
    pip install -r requirements.txt
    ```
 
-4. Obtain API keys:
-
-   - **Have I Been Pwned API Key:**
-     - Visit [Have I Been Pwned](https://haveibeenpwned.com/API/Key) to obtain your API key.
-     - Replace `'YOUR_HIBP_API_KEY'` in the `check_pwned_password` function with your actual API key.
+4. Obtain API key:
 
    - **Breach Directory API Key:**
      - Visit [RapidAPI](https://rapidapi.com/) and sign up for an account.
