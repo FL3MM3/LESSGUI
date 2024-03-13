@@ -70,7 +70,7 @@ This will display the help information, providing details on how to use the LESS
 ## Authors
 
 - [flem](https://github.com/FL3MM3)
-- [fukuda](https://github.com/fukuda)
+
 
 ## Acknowledgments
 
